@@ -5,7 +5,7 @@ Questo repository contiene la base di conoscenza (dataset) utilizzata dall'Agent
 ## Metodologia di Acquisizione: Scraping Automatico
 Per simulare in modo realistico il carico di dati di un'azienda del settore assicurando sempre la reperibilità delle fonti, i file presenti in questo repository sono stati estratti tramite **scraping automatizzato**. 
 
-È stato utilizzato uno script Python (`web_scraper.py`) che si connette a pagine enciclopediche e finanziarie altamente specializzate. Lo script elimina il "rumore" di fondo (codice HTML, menu, footer, pubblicità) e restituisce testo puro ottimizzato per l'addestramento e il retrieval (RAG) di modelli LLM come LlamaIndex.
+È stato utilizzato uno script Python che utilizza **BeautifulSoupWebReader** di **LlamaIndex** che si connette a pagine enciclopediche e finanziarie altamente specializzate. Lo script elimina il "rumore" di fondo (codice HTML, menu, footer, pubblicità) e restituisce testo puro ottimizzato per l'addestramento e il retrieval (RAG) di modelli LLM come LlamaIndex.
 
 I documenti estratti includono definizioni, case study e framework regolatori su:
 * Rischio di Credito, Liquidità, Mercato e Operativo.
