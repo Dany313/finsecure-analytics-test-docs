@@ -1,0 +1,25 @@
+REPORT DI PORTAFOGLIO: BETA DIVIDEND VALUE
+ID Portafoglio: PTF-002-BETA
+Stile di Gestione: Conservativo / Generazione di Reddito
+Valore Nominale: $5,000,000
+
+1. ASSET ALLOCATION
+Il portafoglio "Beta Dividend Value" ha come obiettivo primario la preservazione del capitale e la generazione di flussi di cassa costanti, minimizzando la volatilità.
+- 35% Beni di largo consumo / Consumer Staples (P&G, Coca-Cola, Walmart)
+- 40% Salute / Healthcare (Johnson & Johnson, Pfizer, Merck)
+- 25% Utilities ed Energia (NextEra, Duke Energy)
+
+2. METRICHE DI RISCHIO E RENDIMENTO
+- Rendimento Atteso (Annualizzato - capital gain): +4%
+- Dividend Yield Attuale: 4.5%
+- Rendimento Totale Atteso: +8.5%
+- Volatilità Storica (Deviazione Standard): 8%
+- Maximum Drawdown stimato: -8%
+- Beta di Portafoglio rispetto allo S&P 500: 0.65
+
+3. ANALISI DEGLI SCENARI
+- Scenario Bull (Mercato toro tech-driven): Il portafoglio sottoperformerà in modo significativo l'indice azionario generale a causa della mancanza di esposizione tecnologica.
+- Scenario Bear (Recessione Globale): La natura difensiva del portafoglio fornirà protezione. I beni di prima necessità e la salute sono inelastici rispetto al ciclo economico. Una simulazione di shock (-15% mercato globale) vedrebbe questo portafoglio cedere solo il 4-5% (circa $250,000 di perdita non realizzata, ammortizzata dai dividendi).
+
+4. REVISIONE E RIBILANCIAMENTO
+I dividendi generati vengono reinvestiti automaticamente. Si raccomanda di mantenere l'allocazione attuale. Ottimo asset per bilanciare l'alta volatilità del portafoglio Alpha.

@@ -1,4 +1,4 @@
-# Dataset FinSecure Analytics: Dati per RAG e Analisi dei Rischi
+ # Dataset FinSecure Analytics: Dati per RAG e Analisi dei Rischi
 
 Questo repository contiene la base di conoscenza (dataset) utilizzata dall'Agente AI di **FinSecure Analytics** per svolgere le proprie analisi sui rischi finanziari, stress test e audit interattivi.
 
@@ -37,3 +37,9 @@ Dati storici e logiche di business su aziende reali per simulare l'esposizione d
 8. https://en.wikipedia.org/wiki/Apple_Inc. (Tech / Hardware)
 9. https://en.wikipedia.org/wiki/JPMorgan_Chase (Banking / Finance)
 10. https://en.wikipedia.org/wiki/Saudi_Aramco (Energy / Commodities)
+
+
+## Struttura del Database e Dati di Esempio
+
+- **`knowledge-docs/`**: Questa cartella contiene tutti i file testuali estratti e utilizzati per creare la knowledge base. Per velocizzare i tempi di avvio del notebook, il database vettoriale RAG è già stato prepopolato ed è pronto all'uso senza dover ricalcolare gli embedding.
+- **`company_docs/`**: Contiene dei file di esempio fittizi (report macroeconomici su USA/Cina e profili di portafogli azionari) utili per testare l'estrazione di KPI e le simulazioni di rischio del nostro Agente AI.

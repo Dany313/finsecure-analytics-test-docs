@@ -1,0 +1,24 @@
+REPORT DI PORTAFOGLIO: ALPHA TECH GROWTH
+ID Portafoglio: PTF-001-ALPHA
+Stile di Gestione: Aggressivo / Crescita
+Valore Nominale: $2,500,000
+
+1. ASSET ALLOCATION
+Il portafoglio "Alpha Tech Growth" è progettato per massimizzare il rendimento del capitale a lungo termine, assumendo un rischio significativamente superiore alla media del mercato.
+- 40% Hardware e Semiconduttori AI (Nvidia, AMD, TSMC)
+- 30% Cloud Computing & SaaS (Microsoft, AWS, Salesforce)
+- 20% Cybersecurity (CrowdStrike, Palo Alto Networks)
+- 10% Liquidità tattica (Cash)
+
+2. METRICHE DI RISCHIO E RENDIMENTO
+- Rendimento Atteso (Annualizzato): +18%
+- Volatilità Storica (Deviazione Standard): 22%
+- Maximum Drawdown stimato: -25%
+- Beta di Portafoglio rispetto al NASDAQ-100: 1.35
+
+3. ANALISI DEGLI SCENARI
+- Scenario Bull: L'adozione dell'AI aziendale accelera. Il portafoglio potrebbe sovraperformare l'indice del 7-9%.
+- Scenario Bear (Crollo del Mercato): In caso di recessione o aumento aggressivo dei tassi, i titoli growth ad alto multiplo subiranno forti vendite. Una simulazione di shock (-15% mercato globale) comporterebbe una perdita potenziale di circa $500,000 per questo portafoglio.
+
+4. REVISIONE E RIBILANCIAMENTO
+Il portafoglio viene ribilanciato trimestralmente. Al momento non si consigliano prese di beneficio, ma si valuta di ridurre la quota Cloud a favore di startup AI emergenti nel prossimo semestre.

@@ -1,0 +1,15 @@
+REPORT DI ANALISI FINANZIARIA: MERCATO STATI UNITI 2026
+Data di redazione: Q3 2026
+
+1. PANORAMICA MACROECONOMICA
+L'economia statunitense mostra segni di atterraggio morbido (soft landing). La Federal Reserve ha stabilizzato i tassi di interesse al 4.25%, dopo i tagli effettuati all'inizio dell'anno per stimolare l'occupazione. L'inflazione core si è stabilizzata al 2.1%, molto vicina al target storico del 2%.
+
+2. PERFORMANCE DEI MERCATI AZIONARI
+L'indice S&P 500 ha registrato una crescita YTD del 8%, trainato quasi interamente dal settore tecnologico. Il NASDAQ-100 continua a sovraperformare grazie agli investimenti massicci in infrastrutture per l'Intelligenza Artificiale (AI). Tuttavia, si nota una certa debolezza nei settori industriali tradizionali a causa dell'aumento del costo del lavoro.
+
+3. FATTORI DI RISCHIO
+- Rischio di concentrazione: I "Magnifici 7" pesano per oltre il 30% della capitalizzazione totale dell'indice principale. Una correzione nel settore tech potrebbe causare drawdown severi.
+- Rischio geopolitico: Le tensioni commerciali persistenti e l'imposizione di nuovi dazi sui semiconduttori avanzati potrebbero creare colli di bottiglia nella supply chain.
+
+4. PREVISIONI E RACCOMANDAZIONI
+Si raccomanda di mantenere un'esposizione neutrale sull'azionario USA, con una preferenza per le aziende a grande capitalizzazione (Large Cap) che presentano bilanci solidi. Si suggerisce di coprire il rischio di volatilità tech tramite opzioni put OTM (Out of The Money) per il prossimo trimestre.
